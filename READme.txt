@@ -1,1 +1,1 @@
-Simple test dockerfile that runs container with little golang app
+Simple test dockerfile that runs container with tiny golang app
