@@ -1,4 +1,1 @@
-A text file for test commit!
-New text added
-
-Even more text!!!
+Simple test dockerfile that runs container with little golang app
